@@ -1,0 +1,75 @@
+body{
+background: url('images/nuves.jpg') no-repeat center center fixed;
+margin:0;
+padding:0;
+color:white;
+font-family: sans-serif;
+}
+#wrapper{
+width:90%;
+height:auto;
+margin:0 auto;
+padding:12px;
+}
+#heading{
+font-size:48px;
+color:white;
+}
+h1{
+
+}
+#landscape{
+
+}
+#one{
+ width:28.9%;
+ height:auto;
+margin:12px;
+padding:12px;
+display:inline-block;
+}
+
+#two{
+width:28.9%;
+ height:auto;
+margin:12px;
+padding:12px;
+display:inline-block;
+}
+#three{
+width:28.9%;
+ height:auto;
+margin:12px;
+padding:12px;
+display:inline-block;
+}
+
+#one #featured-image{
+background: url('images/montana.jpg') no-repeat center center;
+background-size: cover;
+width:200px;
+ height:200px;
+margin:0 auto;
+border-radius: 200px;
+}
+
+#two #featured-image{
+background: url('images/bridge.jpg') no-repeat center center;
+background-size: cover;
+width:200px;
+ height:200px;
+margin:0 auto;
+border-radius: 200px;
+}
+
+#three #featured-image{
+background: url('images/beach.jpg') no-repeat center center;
+background-size: cover;
+width:200px;
+ height:200px;
+margin:0 auto;
+border-radius: 200px;
+}
+h2{
+
+}
